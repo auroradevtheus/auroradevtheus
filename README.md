@@ -40,3 +40,4 @@ To practice and develop my current skills, I use sites like <strong><a style="co
   - Getting my first opportunity in the programming area.
   - Become a high-level <strong>front-end</strong> programmer capable of developing apps and web pages quickly and efficiently.
   - Being able to <strong>communicate</strong> in English.
+  - Create a YouTube 📹 channel to share my knowledge and increase my network.
