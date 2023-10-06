@@ -8,7 +8,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/auroradevtheus/) 
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Matheus-N-da-Silva)  
 
-![AuroraDevTheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=auroradevtheus&show_icons=true&theme=tokyonight)
+![AuroraDevTheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=auroradevtheus&show_icons=true&theme=tokyonight) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auroradevtheus)](https://github.com/auroradevtheus/github-readme-stats)
+
 
 #
 
